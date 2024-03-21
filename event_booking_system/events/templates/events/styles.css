@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Style the event list container */
+.event-list-container {
+    margin: 20px;
+}
+
+/* Style the event list heading */
+.event-list-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style the event list items */
+.event-item {
+    margin-bottom: 8px;
+}
+
+/* Style the event item title */
+.event-title {
+    font-weight: bold;
+}
+
+/* Style the event item date */
+.event-date {
+    color: #777;
+}
