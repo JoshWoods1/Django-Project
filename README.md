@@ -18,11 +18,9 @@ The web app allows users to view a list of events, see event details, and regist
 
 I used the following tools to develop the software:
 
-* Operating System: Windows 10
-* Text Editor: Visual Studio Code
+* Visual Studio Code
 * Python 3.10
 * Django 3.2
-* HTML, CSS for front-end
 * SQLite database for development
 
 # Useful Websites
@@ -33,7 +31,12 @@ I used the following tools to develop the software:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+There are several areas for future improvement and additions to the project:
+
+* Add email notifications for event registration and updates.
+* Enhance the front-end with better styling and interactivity using JavaScript frameworks like React.
+
+
+
+
+
