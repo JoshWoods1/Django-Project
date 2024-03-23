@@ -7,7 +7,7 @@ The web app allows users to view a list of events, see event details, and regist
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Event Booking System](https://youtu.be/t7puFFnfgfI)
 
 # Web Pages
 
