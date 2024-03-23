@@ -12,9 +12,9 @@
 
 # Web Pages
 
-**1. Event Listing Page: Displays a list of available events with basic details such as title, date, time, and location. Users can click on individual events to view more details.
+*1. Event Listing Page: Displays a list of available events with basic details such as title, date, time, and location. Users can click on individual events to view more details.
 
-**2. Event Detail Page: Shows detailed information about a specific event, including description and capacity. Users can register for the event on this page.
+*2. Event Detail Page: Shows detailed information about a specific event, including description and capacity. Users can register for the event on this page.
 # Development Environment
 
 {Describe the tools that you used to develop the software}
