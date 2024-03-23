@@ -1,10 +1,9 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, I developed a web application for event booking and registration using Django. This project aims to enhance my skills in web development using Python and Django framework, particularly focusing on database modeling, user authentication, form handling, and views management.
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+The web app allows users to view a list of events, see event details, and register for events they are interested in attending. It includes user authentication to track event registrations per user.
 
-{Describe your purpose for writing this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
@@ -12,14 +11,19 @@
 
 # Web Pages
 
-*1. Event Listing Page: Displays a list of available events with basic details such as title, date, time, and location. Users can click on individual events to view more details.
+1. Event Listing Page: Displays a list of available events with basic details such as title, date, time, and location. Users can click on individual events to view more details.
 
-*2. Event Detail Page: Shows detailed information about a specific event, including description and capacity. Users can register for the event on this page.
+2. Event Detail Page: Shows detailed information about a specific event, including description and capacity. Users can register for the event on this page.
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the following tools to develop the software:
 
-{Describe the programming language that you used and any libraries.}
+* Operating System: Windows 10
+* Text Editor: Visual Studio Code
+* Python 3.10
+* Django 3.2
+* HTML, CSS for front-end
+* SQLite database for development
 
 # Useful Websites
 
